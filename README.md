@@ -1,2 +1,2 @@
-# 110-Intro-to-Interactive-Media-Repo
+# IGME-110-Repo
 Repository for my intro to interactive media course.
